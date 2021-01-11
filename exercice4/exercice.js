@@ -1,0 +1,1 @@
+$('#image').attr("src", "img_pulpitrock.jpg");
